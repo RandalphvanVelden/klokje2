@@ -19,3 +19,8 @@ function App() {
 }
 
 export default App;
+
+// TODO: tijdzone onderdeel van de klok met props
+// https://mui.com/
+// https://dev.visie-groep.nl/wp-json/wp/v2/
+// react hooks

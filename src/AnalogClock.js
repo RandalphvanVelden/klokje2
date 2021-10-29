@@ -35,7 +35,7 @@ function hour12(){
     }
     return hour;
 }
-
+// useRef
 const hourHand = document.getElementById("hourHand")
 const minuteHand = document.getElementById("minuteHand")
 const secondHand = document.getElementById("secondHand")
@@ -69,3 +69,4 @@ return () =>{
 };
 
 export default AnalogClock;
+
